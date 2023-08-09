@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check conflicts
-        uses: UrodaMarek/actions/label-conflict@main
+        uses: Cryptomines-Network/actions/label-conflict@main
         with:
           secretToken: "${{ secrets.GITHUB_TOKEN }}"
           labelToAddOnConflict: "merge conflict"
