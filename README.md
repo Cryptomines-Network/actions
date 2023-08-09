@@ -1,5 +1,5 @@
-# serwisgalena/Actions
-This repository stores internal actions and workflows that will be reused in GitHub Actions across various other serwisgalena repositories.
+# UrodaMarek/Actions
+This repository stores internal actions and workflows that will be reused in GitHub Actions across various other UrodaMarek repositories.
 
 ## Reusable Actions
 

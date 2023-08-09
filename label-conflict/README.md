@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check conflicts
-        uses: serwisgalena/actions/label-conflict@main
+        uses: UrodaMarek/actions/label-conflict@main
         with:
           secretToken: "${{ secrets.GITHUB_TOKEN }}"
           labelToAddOnConflict: "merge conflict"
